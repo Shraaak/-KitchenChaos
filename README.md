@@ -1,0 +1,2 @@
+# -KitchenChaos
+这是我unity入门跟练的第一个完整系统的游戏项目，原作者是codeMonkey，感谢codeMonkey老师无私的开源精神
