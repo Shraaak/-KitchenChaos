@@ -1,0 +1,29 @@
+# ============ Unity 相关 ============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+AssetStoreTools*
+/Packages/com.unity.collab-proxy/
+
+# ============ IDE 相关 ============
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.user
+*.unityproj
+*.tmp
+*.userprefs
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
